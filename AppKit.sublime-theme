@@ -517,26 +517,26 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [17, 8, 17, 7],
-        "layer0.texture": "Theme - Soda/Soda Light/custom_folder_closed.png",
+        "layer0.texture": "Theme - Aqua/AppKit/custom_folder_closed.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": 0
     },
     {
         "class": "disclosure_button_control",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - Soda/Soda Light/custom_folder_closed_selected.png"
+        "layer0.texture": "Theme - Aqua/AppKit/custom_folder_closed_selected.png"
     },
     // Sidebar group open
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Soda/Soda Light/custom_folder_open.png"
+        "layer0.texture": "Theme - Aqua/AppKit/custom_folder_open.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.texture": "Theme - Soda/Soda Light/custom_folder_open_selected.png"
+        "layer0.texture": "Theme - Aqua/AppKit/custom_folder_open_selected.png"
     },
 
 //
