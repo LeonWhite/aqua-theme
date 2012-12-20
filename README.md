@@ -1,3 +1,7 @@
+This is my slightly modified fork of the theme. It includes retina icons from [Soda](https://github.com/buymeasoda/soda-theme) and folder icons in the sidebar but only for the light theme. It looks like this (no dark version because I don't use it - sorry!):
+
+![Updated AppKit](https://github.com/cafarm/aqua-theme/raw/master/AppKit/AppKit-updates.png)
+
 # Aqua Theme
 
 This theme is an evolving attempt to make Sublime Text 2 visually feel more native on OS X. It comes in a dark (ProKit) and light (AppKit) variation. The theme began as a fork of the [Soda Theme](https://github.com/buymeasoda/soda-theme).
