@@ -1,6 +1,6 @@
 This is my slightly modified fork of the theme. It includes retina icons from [Soda](https://github.com/buymeasoda/soda-theme) and folder icons in the sidebar but only for the light theme. It looks like this (no dark version because I don't use it - sorry!):
 
-![Updated AppKit](https://github.com/cafarm/aqua-theme/raw/master/AppKit/AppKit-updates.png)
+![Updated AppKit](https://github.com/mrappleton/aqua-theme/raw/master/AppKit/AppKit-updates.png)
 
 # Aqua Theme
 
