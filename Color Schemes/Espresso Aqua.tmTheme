@@ -17,9 +17,9 @@
                 <key>foreground</key>
                 <string>#000000</string>
                 <key>invisibles</key>
-                <string>#E0E0E0</string>
+                <string>#FFFFFF</string>
                 <key>lineHighlight</key>
-                <string>#ffffff</string>
+                <string>#FFFFFF</string>
                 <key>selection</key>
                 <string>#B5D5FF</string>
                 <key>selectionBorder</key>
@@ -689,6 +689,39 @@
                 <key>foreground</key>
                 <string>#434343</string>
             </dict>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>diff.deleted</string>
+          <key>scope</key>
+          <string>markup.deleted</string>
+          <key>settings</key>
+          <dict>
+            <key>foreground</key>
+            <string>#D2451F</string>
+          </dict>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>diff.inserted</string>
+          <key>scope</key>
+          <string>markup.inserted</string>
+          <key>settings</key>
+          <dict>
+            <key>foreground</key>
+            <string>#628536</string>
+          </dict>
+        </dict>
+        <dict>
+          <key>name</key>
+          <string>diff.changed</string>
+          <key>scope</key>
+          <string>markup.changed</string>
+          <key>settings</key>
+          <dict>
+            <key>foreground</key>
+            <string>#7657BE</string>
+          </dict>
         </dict>
     </array>
     <key>uuid</key>
